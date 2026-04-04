@@ -1,1 +1,0 @@
-{  "name": "portfolio-website",  "version": "1.0.0",  "private": true,  "dependencies": {    "next": "latest",    "framer-motion": "latest",    "react-icons": "latest"  }}
